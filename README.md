@@ -6,7 +6,7 @@ https://github.com/chinmay444/Jenkins-Sonarqube-Docker
 **CI/CD Workflow
 ![IMG_20241027_232824](https://github.com/user-attachments/assets/0254af40-5aa9-4b00-aa84-5c164fd60edf)
 
-# CI/CD Pipeline with Jenkins, SonarQube, and Docker
+# CI/CD Pipeline with Jenkins, SonarQube,GitHub WebHooks and Docker
 
 This guide outlines a simple CI/CD pipeline using Jenkins, SonarQube, and Docker.
 
