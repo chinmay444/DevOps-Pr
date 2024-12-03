@@ -25,4 +25,5 @@ This guide outlines a simple CI/CD pipeline using Jenkins, SonarQube, and Docker
 
 1. **Install Jenkins** on a server and configure GitHub Webhooks.
 2. **Install SonarQube** on a server and integrate it with Jenkins.
-3. **Install Docker** on the Jenkins server for building and deploying containers.
+      command:   sudo docker run -d --name sonar-devops -p 9000:9000 sonarqube:lts-community
+4. **Install Docker** on the Jenkins server for building and deploying containers.
